@@ -52,7 +52,7 @@ pip install numpy pandas matplotlib tensorflow scikit-learn
 ## 📓 Instructions for Running the Notebook
 1. Clone the repository or download the notebook file:
    ```bash
-   git clone https://github.com/your-repository/potato-disease-detection.git
+   git clone https://github.com/Potato_disease_classification/potato-disease-detection.git
    cd potato-disease-detection
    ```
 
@@ -67,6 +67,11 @@ pip install numpy pandas matplotlib tensorflow scikit-learn
    - Train and evaluate the model.
 
 4. Test the model by providing new images for disease classification.
+
+## 👤 Author
+- **Name**: [Arjun]
+- **LinkedIn**: [www.linkedin.com/in/arjun-ㅤ-585686236](#)
+- **Email**: [arjunkumar100905@gmail.com]
 
 ## 📚 Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or new features.
