@@ -70,7 +70,7 @@ pip install numpy pandas matplotlib tensorflow scikit-learn
 
 ## 👤 Author
 - **Name**: Arjun
-- **LinkedIn**: [www.linkedin.com/in/arjun-585686236](#)
+- **LinkedIn**: [www.linkedin.com/in/arjun-ㅤ-585686236](#)
 - **Email**: arjunkumar100905@gmail.com
 
 ## 📚 Contributions
